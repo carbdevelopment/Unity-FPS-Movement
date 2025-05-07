@@ -60,9 +60,10 @@ Customize the footstep system:
 - Add audio clips to `walkFootstepSounds` and `runFootstepSounds` arrays
 - Adjust `walkStepInterval` and `runStepInterval` for step timing
 
-## Gameplay
+## Media
 
-1. **Gameplay**
+### Gameplay
+
 ![Demo](media/demo.gif)
-2. **Animator BlendTree Setup**
+### Animator Blend Tree Setup
 ![Screenshot](media/screenshot.png)
